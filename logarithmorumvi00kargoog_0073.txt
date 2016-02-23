@@ -1,0 +1,50 @@
+69
+
+erhibiti omues ultimae uotae decimalis partibus3 vel, si pro νσ2
+ejus valor a,²÷a,²÷...a,=2a² ponitur,
+
+affl erit error probabilis
+
+ῑᾶῖ .
+ᾖ· error medrus.
+
+’ a. 12.
+
+Priusquam formulas inventas adhibeamus, computationem ,
+loguithmicam in uuiversum accuratius perscrutemur. Primum
+mendum nou est, quotiens transieris a logarithmo ad numenun
+vel a numero ad logarithruum‚ totiens errorem nasei, eujus finis
+sit dimidia unitas, dummodo ad tabulae logarithrnum partem
+proportionalem addideris. Deinde erroris probabilitas in diver-
+sis intervallis uon est eadem, quum plures errorum fontes ¹eni-
+sont. Denique inter se discrepant et limites et probabilitates
+errorum, prout a numero ad logarith'mum aut a logarithmo ad
+numerum fit transitus. Aequationes igitur in ξ. 2 propositae,
+inquibus pro transitu unoquoque uuus tantum erroris sons sumtus
+ut, modificatione quadam egent. Sed, ut omnia exacte formulis
+exhibeantur, primum a numero transitus ad logarithmum aoou-
+ratius consideretur.
+
+Quod si propositum est, ut dato numero respondens loga·
+rithmus quaeratur, vulgo ita agitur, ut ad tabulae logarithmum
+pm proportionalis 'differentiae logmithmorum tabulae addatur.
+tuque si L, et J, sunt logorithmi tabulae, inter quos inter-
+potatio instituenda est, ε autom ost fractio, per quam differentia
+o=L,-L, est mudtiplioanda, seeundum reginam vulgarem, cujus
+hoo looo ratio habenda est, ’
+
+L, ÷sA
+erit logorithmus quaesitus, iu quo εΔ accurate quidem¹ oompu·
+· totum est, sed integris tautum ultimae notae decimalis unitatibus
+exhibitum.
+
+Sumatur, s, et s, esse errores logarithmorum tabulae L, et L„
+ita intelligendos, ut L,÷f, et L,†f, sint exacti logau’thmorum
+voluso, error logarithmi L,÷2a erit ’
+
+s14⁸idb'fr)÷f³
+
+ti s, designat errorem, qui e producto decurtato εΔ proficiscitur,
+
+ 
+

@@ -1,0 +1,47 @@
+aa Ν ’ mnenucno. ·
+
+habeat. Quam ob causam altera tantun logaritbmi pars, quae
+‘notas decimales continet et quam mantissam vocamus, in ta·
+bulis exhibeatur necesse cat.
+
+Tabula Ι. continet quattuor prioribus paginis legarithmos
+numerorum in serie naturali progredientium ab 1 usque ad 1000.
+ln columna, cui N. suprascriptum est, positi sunt numeri, co· ¹
+lumna vero ad dextram ab hac posita, cui Log. suprascriptum
+est, continet corum logarithmos. E. g. ad dextram a numero
+γ574 legitur logarithmus 758912, ad quem characteristicum 2 ud-⁸
+das, quum notae numeri 574 sint tres, ita ut 2,758912 loga-
+rithmum numeri 574 habeas. — Hanc priorem tabulae 1. par-
+tem excipit altera, quae' numeros quinque notarum vel in serie ,
+naturali inter 10000 et 100000 jacentes eorumque logarithmos
+complectitur, cujus autem oeconomia est alia. Non enim nu·
+merus totus, red quattuor teritum p'riores ejus notae in columna
+prima positae sunt, quinta legitur in ceterarum columnarum ver'-
+tice et calce. Itaque si > logarithmum numeri in hac tabulae
+parte quaeris, ibi quaerendus est, ubi linea horinontalie notamm
+quattuor priorum columnae verticuli notae quintae occurrit. Sed
+quattuor tantum posteriores notas mantissae ibi invenies, quum
+
+· priores ducein columna, cui suprascriptum est 0, positae sunt
+juxta eos numeros, quorum extrema-nota est‘ll vel 5‘, quippe
+quae in compluribus legarithmorum lineis eaedem sint. Et baec
+quidem lex in his notis prioribus logarithmi serrata est, ut non
+solum sd lineam horizontalem, in qua positae sunt, sed etiam
+ad sequentes co usque pertineant, ubl aliae duae notae eas ex-
+cipiant. Mutationis factae index est lineola priori quattuor no·
+tarum suprascripta, ut novae duae notae non solum ad lineam
+horizontalem, cui antepositae sunt, sedetiam ad notas antece·
+dentis lineae hoc signo signatas pertineant
+
+Expl. l. Quaeratur logarithmus numeri dati 11077.
+Primum quattuor priores notas 1167 quaeras in columna nom
+N signata, deinde in lines horizontali sd dextram pergas et in
+columna verticali nota 7 signata quattuor posteriores mantissae
+notas invenies 7331, ad quas adjungas priores 06 et cbar'scte·
+risticam'd ltaque logarithmus quaesitus'erit acutam.
+
+- Expl. -2.· asseratur logarithmus numeri dati 39813.
+- Primum parimodo· atque· in exempl. l invenies quattuor
+
+ 
+

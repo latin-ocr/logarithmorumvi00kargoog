@@ -1,0 +1,35 @@
+0110000000.
+
+LogarithmunBrig'gianuunumeriAest numerus positivus
+nt negativus a exponentem dignitatis indicans, ad quam numerus
+10 elevandus est, ut numerus ille A gignatur. ltaque aequatio
+inter valeres a et A haee est:
+
+10⁸ = A,
+qm etim describitur:
+log A = α.
+Ex hm aequafiono sequitur: ’
+log1=0
+log 10=1 ,
+10310022
+log1ow=3
+etc.
+lug 0,1 = - 1 '
+log 0,01 = - 2
+log 0,001 .·--·- 3.
+· etc.
+ltaque loguithmi omnium numerorum unitate majorum nunt po·
+nitivi, stationum vero geminarum sunt negativi.
+
+Porro cujuslibet inter dignitatem 10⁶, eujus exponensc est
+numerus 'mteger et positivus, ot dignitatem 1011Ι jacentis nu·
+meri logatithmus eut c†m, in quo m est minor unitate. No·
+tm integrarum vero, quibus numerus inter 10=et 100÷1 ja·
+oen· mihitur, sunt Η- 1. Atque quum ejusdem numeri loga·
+rithmu- oomtot unintibun integris ο attractione decimali, re-
+gul· nequitur simplicissima, ut pm logariffimi ad sinistram com·
+mi· vel puncti posita, quae characteristicum& solet, sit
+mum uniente minet qum quot notu intogm numenu datus .
+
+ 
+
